@@ -1,2 +1,2 @@
-# blade-status
+# Blade
 Roblox Blade Executor Status
